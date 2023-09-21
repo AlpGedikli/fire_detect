@@ -3,7 +3,7 @@ import numpy as np
 
 #cap = cv2.VideoCapture("ates.mp4")
 cap = cv2.VideoCapture(0)
-#https://www.youtube.com/watch?v=2uxfqlDbVV4
+
 lowRed = np.array([0, 50, 50])
 upRed = np.array([35, 255, 255])
 
